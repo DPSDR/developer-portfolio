@@ -10,6 +10,7 @@ h1 {
 }
 section {
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width {
     width: 50%;
@@ -28,4 +29,10 @@ section {
 }
 .top-banner {
     background: url(images/top-banner.png) no-repeat;
+}
+
+/* Dream area by dipta */ 
+
+.dream-banner {
+    background: url(images/dream-bg.png) no-repeat;
 }
